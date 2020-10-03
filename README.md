@@ -1,4 +1,4 @@
-## Awesome music player
+## Awesome music player - An Amazing Project
 
 * Create a awesome music player player for android
 
